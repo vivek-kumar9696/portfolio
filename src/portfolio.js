@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Mayank Raj",
-  title: "Hi all, I'm Mayank",
+  username: "Vivek Kumar",
+  title: "Hi all, I'm Vivek",
   subTitle: emoji(
-    " I have a Master's degree in Machine Learning and strong background in Backend Development. I'm eager to take on roles that involve solving scaling problems, implementing new features, and managing increased web traffic." 
+    " I have a Master's degree in Information Science and strong background in Quantum Computing. I'm eager to take on roles that involve solving scaling problems, implementing new features, and managing increased web traffic." 
     +"I am actively looking for Machine Learning Engineer / Software Engineer roles.My technical toolkit includes Go, Java, and Node.js for "+
     "building backend systems. Through my academic and professional journey,"+
     " I've developed a deep understanding of Deep Learning and Natural Language Processing."
